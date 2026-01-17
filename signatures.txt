@@ -1,0 +1,4 @@
+VIRUS_TEST
+WORM_USB
+DANGEROUS_CMD
+powershell -enc
