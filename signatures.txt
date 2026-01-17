@@ -2,3 +2,18 @@ VIRUS_TEST
 WORM_USB
 DANGEROUS_CMD
 powershell -enc
+X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
+Trojan.Win32.Generic
+Worm.Win32.NetSky
+Ransomware.WannaCry.v1
+Spyware.Agent.Tesla
+Backdoor.ShadowPad
+Adware.OpenCandy
+Exploit.Win32.Shellcode
+Malware.Emotet.Bin
+RAT.Quasar.Server
+Keylogger.Artemis
+PUP.Optional.Legacy
+Trojan.Dropper.Script
+Worm.Python.Stuxnet.Sim
+HackTool.Win32.Mimikatz
